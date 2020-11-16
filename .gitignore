@@ -1,0 +1,7 @@
+ganache_data/
+
+# serverless packaging
+.serverless/
+node_modules/
+# ignored because docker-compose.yml is dynamic
+docker-compose.yml
